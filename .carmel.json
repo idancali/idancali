@@ -1,0 +1,22 @@
+{
+  "chunks": [
+    "intro",
+    "about"
+  ],
+  "notfound": {
+    "title": "Oops",
+    "subtitle": "Are you sure you really wanna be here?"
+  },
+  "footer": {
+    "watermark": "Built with Carmel."
+  },
+  "id": "gtotprshp",
+  "carmelSDKVersion": "1.9.34",
+  "template": "starter",
+  "bundle": "@fluidtrends/bananas",
+  "bundleVersion": "1.9.43",
+  "stack": "jayesse",
+  "stackVersion": "1.9.17",
+  "packer": "papanache",
+  "packerVersion": "1.9.26"
+}
